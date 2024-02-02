@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ **********************************************************************************
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ *
+ * Copyright (c) 2020-2024 Renesas Electronics Corporation and/or its affiliates
+ *
+ * Redistribution and use in source and binary forms, with or without modification,
+ * are permitted provided that the following conditions are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright notice,
+ *    this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright notice,
+ *    this list of conditions and the following disclaimer in the documentation
+ *    and/or other materials provided with the distribution.
+ *
+ * 3. Neither the name of Renesas nor the names of its contributors may be
+ *    used to endorse or promote products derived from this software without
+ *    specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY RENESAS "AS IS" AND ANY EXPRESS OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ * MERCHANTABILITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL RENESAS OR CONTRIBUTORS BE LIABLE FOR ANY
+ * DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ * (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+ * THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+ **********************************************************************************
+-->
+<resources>
+
+    <string name="app_name">CodeLess Library</string>
+
+    <string name="codeless_storage_permission_rationale">Access to the device\'s storage is required in order to save log files, load command scripts and send files.</string>
+    <string name="codeless_storage_permission_rationale_no_log">Access to the device\'s storage is required in order to load command scripts and send files.</string>
+    <string name="codeless_location_permission_rationale">Access to location information is required in order to scan for Bluetooth Smart devices.</string>
+    <string name="codeless_no_location_services_title">Location Services Disabled</string>
+    <string name="codeless_no_location_services_msg">It may be required to enable the Location Services on your device in order to scan for Bluetooth Smart devices.</string>
+    <string name="codeless_no_location_services_scan">Continue</string>
+    <string name="codeless_enable_location_services">Enable</string>
+
+</resources>
